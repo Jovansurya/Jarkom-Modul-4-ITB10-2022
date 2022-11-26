@@ -39,3 +39,8 @@ untuk roter
 lalu pada router sendiri diperlukan routing yang menggunakan metode statis, seperti contoh pada router the minister, ada total 2 routing, hal ini dikarenakan router tersebut terhubung langsung dengan dua router.
 
 ![Output result](img/r.png)
+
+
+berikut adalah hasil routing yang sudah berhasil
+
+![Output result](img/hasill.png)
