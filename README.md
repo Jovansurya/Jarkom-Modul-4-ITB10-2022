@@ -13,7 +13,7 @@
 Pembagian IP dan routing harus SE-EFISIEN MUNGKIN.
 
 
-
+# VLSM
 berdasarkan soal dan topologi diatas, berikut hasil pengerjaan kami
 
 # TOPOLOGI
@@ -23,3 +23,16 @@ berdasarkan soal dan topologi diatas, berikut hasil pengerjaan kami
 ![Output result](img/A1(3).png)
 
 
+berdasarkan jumlah client yang diminta pada soal, kami membagikan ipnya seperti berikut berikut
+![Output result](img/T.png)
+
+lalu kami menambahkan ip pada tiap pc dan interface pada router seperti berikut
+
+untuk pc
+![Output result](img/ip2.png)
+untuk roter 
+![Output result](img/ip1.png)
+
+lalu pada router sendiri diperlukan routing yang menggunakan metode statis, seperti contoh pada router the minister, ada total 2 routing, hal ini dikarenakan router tersebut terhubung langsung dengan dua router.
+
+![Output result](img/r.png)
