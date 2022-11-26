@@ -33,6 +33,7 @@ untuk pc
 ![Output result](img/ip2.png)
 
 untuk roter 
+
 ![Output result](img/ip1.png)
 
 lalu pada router sendiri diperlukan routing yang menggunakan metode statis, seperti contoh pada router the minister, ada total 2 routing, hal ini dikarenakan router tersebut terhubung langsung dengan dua router.
