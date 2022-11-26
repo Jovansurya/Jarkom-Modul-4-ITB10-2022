@@ -29,7 +29,9 @@ berdasarkan jumlah client yang diminta pada soal, kami membagikan ipnya seperti 
 lalu kami menambahkan ip pada tiap pc dan interface pada router seperti berikut
 
 untuk pc
+
 ![Output result](img/ip2.png)
+
 untuk roter 
 ![Output result](img/ip1.png)
 
