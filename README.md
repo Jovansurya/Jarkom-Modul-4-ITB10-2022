@@ -44,3 +44,25 @@ lalu pada router sendiri diperlukan routing yang menggunakan metode statis, sepe
 berikut adalah hasil routing yang sudah berhasil
 
 ![Output result](img/hasill.png)
+
+
+
+
+
+
+
+# CIDR
+Berikut langkah-langkah subnetting dan router menggunakan metode CIDR
+
+
+![Output result](img/ci1.png)
+![Output result](img/ci2.png)
+![Output result](img/ci3.png)
+![Output result](img/ci4.png)
+![Output result](img/ci5.png)
+![Output result](img/ci6.png)
+![Output result](img/ci7.png)
+
+
+untuk pembagian IPnya mirip seperti VLSM namun disini ada beberapa client yang saya tambahkan range IPnya sehingga dibutuhkan penambahan client maka tidak perlu perhitungan tambahan dan tidak akan overlap dengan client lain
+![Output result](img/cit.png)
